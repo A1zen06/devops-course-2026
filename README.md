@@ -13,3 +13,5 @@
 - Git / GitHub / Gitverse
 - Python
 - Docker (скоро)
+
+# Multi-remote test
